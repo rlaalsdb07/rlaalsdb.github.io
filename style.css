@@ -80,7 +80,7 @@ body {
     font-weight: 600;
     box-shadow: 0 10px 25px rgba(79,70,229,0.35);
 }
-..profile-right h2{
+.profile-right h2{
     font-size: 22px;
     margin-bottom: 4px;
 
@@ -168,4 +168,5 @@ body {
     .section-card{
         padding: 20px 16px 18px;
     }
+
 }
